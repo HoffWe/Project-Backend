@@ -1,0 +1,7 @@
+com.example.sprintproject
+com.example.sprintproject.Controller
+com.example.sprintproject.dto
+com.example.sprintproject.mapper
+com.example.sprintproject.model
+com.example.sprintproject.repository
+com.example.sprintproject.service
